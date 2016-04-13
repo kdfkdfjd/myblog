@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+      //changed 20160413
 	beego.Run()
 }
 
